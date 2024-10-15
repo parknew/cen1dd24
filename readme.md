@@ -6,4 +6,4 @@ https://parknew.github.io/cen1dd24/
 
 Séance 2:
 
-https://parknew.github.io/cen1dd24/
+https://parknew.github.io/cen1dd24/ex2-park.html
